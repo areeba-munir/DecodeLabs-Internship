@@ -1,0 +1,11 @@
+[2026-07-21 17:44:23] LogicBot: Hello! I am your rule-based AI chatbot.
+[2026-07-21 17:44:47] User: helloe
+[2026-07-21 17:44:47] LogicBot: Sorry, I do not understand that yet. Type 'help' to see what you can ask.
+[2026-07-21 17:44:51] User: hello
+[2026-07-21 17:44:51] LogicBot: Hello! How can I help you?
+[2026-07-21 17:44:55] User: name
+[2026-07-21 17:44:55] LogicBot: My name is LogicBot.
+[2026-07-21 17:44:56] User: ai
+[2026-07-21 17:44:56] LogicBot: Artificial Intelligence allows machines to perform tasks that normally require human intelligence.
+[2026-07-21 17:45:02] User: exit
+[2026-07-21 17:45:02] LogicBot: Goodbye! Have a great day.
