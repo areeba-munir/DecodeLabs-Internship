@@ -216,3 +216,20 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Python virtual environments
+.venv/
+venv/
+
+# Python-generated files
+__pycache__/
+*.pyc
+*.pyo
+
+# Streamlit
+.streamlit/secrets.toml
+
+# System/editor files
+.DS_Store
+Thumbs.db
+.vscode/
